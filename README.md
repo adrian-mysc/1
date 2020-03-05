@@ -1,2 +1,2 @@
 # para-estudo
-pdf
+livros em formato pdf para estudo.
